@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabarciwiczkts&show_icons=true&locale=en" alt="cabarciwiczkts" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabarciwiczkts&" alt="cabarciwiczkts" /></p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xf5x15i37ongv9cxbpvtqwv5y)
