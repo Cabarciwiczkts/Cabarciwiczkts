@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Cabarciwiczkts/output/snake.svg" alt="Snake animation" />
+
 
 ###
