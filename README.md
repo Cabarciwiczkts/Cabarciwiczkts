@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-
+![Snake animation](https://raw.githubusercontent.com/Cabarciwiczkts/Cabarciwiczkts/output/github-contribution-grid-snake-dark.svg)
 
 ###
