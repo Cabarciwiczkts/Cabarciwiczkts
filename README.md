@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋!</h2>
-<h6>Just a guy posting hes bullshit here
-(New Profile)
-</h6>
+<h6>Just a guy posting hes bullshit here | (New Profile)</h6>
 
 
 ###
